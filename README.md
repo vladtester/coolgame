@@ -1,2 +1,4 @@
 coolgame
 ========
+
+- a new feature
